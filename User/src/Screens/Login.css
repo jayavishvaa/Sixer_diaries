@@ -1,0 +1,22 @@
+.table-style {
+    margin: auto;
+    max-width: 800px;
+    box-shadow: 0 0 20px rosybrown;
+    font-size: medium;
+    border-collapse: collapse;
+}
+
+.table-style thead tr {
+    background-color: aquamarine;
+    color: aliceblue;
+    text-align: left;
+}
+
+.table-style td, .table-style th {
+    padding: 0;
+}
+
+
+
+
+
